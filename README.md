@@ -6,7 +6,7 @@
 
 Для использования шаблона необходимо:
 ```bash
-$ git clone 
+$ git clone https://github.com/cp38510/docker_gosu.git
 $ ./init.sh ubuntu:latest docker
 or:
 $ ./init.sh ubuntu:latest docker sudo
